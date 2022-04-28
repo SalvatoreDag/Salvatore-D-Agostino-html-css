@@ -140,13 +140,13 @@ ul{
   }
  /*fine pagina iniziale*/
 .image2{
- transform: translate(50%, 200%);
+ transform: translate(50%, 250%);
  width: 50%;
 }
 
  .text{
   position:absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
 
@@ -160,17 +160,17 @@ ul{
 /*fine about*/
 
 .image3{
- margin-left: 25% ;
+ margin-left: 20% ;
  margin-top: 35%;
 }
 
 hr{
-  margin-top: 25%;
+  margin-top: 15%;
   border: 1px solid #36383F;
 }
 .image4{
-  margin-top: 35%;
-  margin-left: 30%;
+  margin-top: 15%;
+  margin-left: 25%;
 }
 p{
   text-align: center;
@@ -189,7 +189,7 @@ p{
 
 footer{
   position: absolute;
-  margin-top: 135%;
+  margin-top: 200%;
   background-color: #363636  ;
   box-shadow: 1px 1px 5px 0px var(--gray);
   width: 100%;
@@ -271,15 +271,15 @@ margin-top: 20%;
 }
 .image3 {
 position: absolute;
-top: 21%;
-left: 10%;
+top: -40%;
+left: 0;
 z-index: -1;
 }
 
 .image4 {
 position: absolute;
-top: -26%;
-right: 15%;
+top: -0%;
+right: 20%;
 z-index: -1;
 }
 
