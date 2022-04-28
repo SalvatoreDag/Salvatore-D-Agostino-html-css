@@ -140,13 +140,13 @@ ul{
   }
  /*fine pagina iniziale*/
 .image2{
- transform: translate(50%, 500%);
+ transform: translate(50%, 200%);
  width: 50%;
 }
 
  .text{
   position:absolute;
-  top: 65%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 
@@ -160,8 +160,8 @@ ul{
 /*fine about*/
 
 .image3{
- margin-left: 5% ;
- margin-top: 100px;
+ margin-left: 25% ;
+ margin-top: 35%;
 }
 
 hr{
@@ -169,8 +169,8 @@ hr{
   border: 1px solid #36383F;
 }
 .image4{
-  margin-top: 30%;
-  margin-left: 15%;
+  margin-top: 35%;
+  margin-left: 30%;
 }
 p{
   text-align: center;
@@ -189,7 +189,7 @@ p{
 
 footer{
   position: absolute;
-  margin-top: 250%;
+  margin-top: 135%;
   background-color: #363636  ;
   box-shadow: 1px 1px 5px 0px var(--gray);
   width: 100%;
